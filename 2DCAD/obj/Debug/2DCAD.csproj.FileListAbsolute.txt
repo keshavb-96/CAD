@@ -1,0 +1,14 @@
+C:\Users\keshavb96\Desktop\VSProjects\2DCAD\2DCAD\bin\Debug\2DCAD.exe.config
+C:\Users\keshavb96\Desktop\VSProjects\2DCAD\2DCAD\bin\Debug\2DCAD.exe
+C:\Users\keshavb96\Desktop\VSProjects\2DCAD\2DCAD\bin\Debug\2DCAD.pdb
+C:\Users\keshavb96\Desktop\VSProjects\2DCAD\2DCAD\obj\Debug\2DCAD.csprojResolveAssemblyReference.cache
+C:\Users\keshavb96\Desktop\VSProjects\2DCAD\2DCAD\obj\Debug\MainWindow.g.cs
+C:\Users\keshavb96\Desktop\VSProjects\2DCAD\2DCAD\obj\Debug\App.g.cs
+C:\Users\keshavb96\Desktop\VSProjects\2DCAD\2DCAD\obj\Debug\2DCAD_MarkupCompile.cache
+C:\Users\keshavb96\Desktop\VSProjects\2DCAD\2DCAD\obj\Debug\2DCAD_MarkupCompile.lref
+C:\Users\keshavb96\Desktop\VSProjects\2DCAD\2DCAD\obj\Debug\MainWindow.baml
+C:\Users\keshavb96\Desktop\VSProjects\2DCAD\2DCAD\obj\Debug\2DCAD.g.resources
+C:\Users\keshavb96\Desktop\VSProjects\2DCAD\2DCAD\obj\Debug\_2DCAD.Properties.Resources.resources
+C:\Users\keshavb96\Desktop\VSProjects\2DCAD\2DCAD\obj\Debug\2DCAD.csproj.GenerateResource.Cache
+C:\Users\keshavb96\Desktop\VSProjects\2DCAD\2DCAD\obj\Debug\2DCAD.exe
+C:\Users\keshavb96\Desktop\VSProjects\2DCAD\2DCAD\obj\Debug\2DCAD.pdb
