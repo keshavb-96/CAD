@@ -5,18 +5,10 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:_2DCAD"
         mc:Ignorable="d"
-        Title="MainWindow" Height="350" Width="525" WindowState="Maximized">
+        Title="DrawingEditor" Height="350" Width="525" WindowState="Maximized">
     <DockPanel>
         <Menu DockPanel.Dock="Top">
             <MenuItem Header="_File">
-                <MenuItem Header="New" />
-                <MenuItem Header="Open" />
-                <MenuItem Header="Save" />
-                <MenuItem Header="Save As"></MenuItem>
-                <MenuItem Header="Print"></MenuItem>
-                <MenuItem Header="Close"></MenuItem>
-                <Separator></Separator>
-                <MenuItem Header="Recent"></MenuItem>
                 <MenuItem Name="mFileExit" Header="Exit"></MenuItem>
             </MenuItem>
             <MenuItem Name="mModes" Header="_Mode">

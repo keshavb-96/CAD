@@ -31,13 +31,6 @@ namespace _2DCAD
             Focus();
             dc.DrawRectangle(Brushes.White, null, new Rect(0, 0, ActualWidth, ActualHeight));
 
-            //StreamGeometry sg = new StreamGeometry ();
-            //using (StreamGeometryContext ctx = sg.Open ()) {
-            //   ctx.BeginFigure (new Point (200, 100), false, false);
-            //   ctx.ArcTo (new Point (100, 200), new Size (100, 100), 0, true, SweepDirection.Clockwise, true, false);
-            //}
-            //dc.DrawGeometry (null, new Pen (Brushes.Black, 1), sg);
-
             foreach (var shape in Dwg.Shapes)
                 shape.Draw(dc);
             mCurrentWidget.Render(dc);

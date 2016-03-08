@@ -137,9 +137,6 @@ namespace _2DCAD
             foreach (var s in Dwg.Shapes)
                 if (s.Contained(bound)) s.IsSelected = true;
 
-            // WRONG: 
-            //foreach (var s in Dwg.Shapes)
-            //   s.IsSelected = s.Contained (bound);
 
             Pts.Clear();
             Editor.InvalidateVisual();
